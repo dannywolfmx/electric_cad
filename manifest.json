@@ -1,0 +1,6 @@
+{
+  "name": "porgramaCad",
+  "short_name": "porgramaCad",
+  "start_url": "/",
+  "display": "standalone"
+}
